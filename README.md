@@ -1,16 +1,20 @@
-### Hi there 👋
+### José Miguel Álvarez Vañó
 
-<!--
-**josemiguel-alvarez/josemiguel-alvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 My name is José Miguel. I'm a Software Engineer at Shopify. I'm currently working on Inbox, the most popular messaging app for Shopify stores. Previously I've worked in the Swiss & Spanish fintech industry. I'm confident across the stack with a specialization in the frontend.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 Currently working on: Building my developer portfolio.
+- 🍀 Currently learning: Refactoring and Design patterns.
+- 💭 Want to learn next: Deepen knowledge about the latest frontend build tools.
+- 📫 How to reach me: jm.alvarez.vano@gmail.com
+- ⚡ Fun fact: As a child I learned to solve Rubik's cubes with my eyes closed.
+
+## 🛠️ Technology interests
+
+- React
+- React Native
+- Typescript
+- Jest
+- Ruby
+- Rails
