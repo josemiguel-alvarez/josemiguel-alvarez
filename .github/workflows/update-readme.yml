@@ -11,5 +11,4 @@ jobs:
         with:
           feed-url: https://www.jmalvarez.dev/feed.xml
           readme-section: feed
-          branch: add-github-action
           empty-commits: false
