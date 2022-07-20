@@ -12,3 +12,4 @@ jobs:
           feed-url: https://www.jmalvarez.dev/feed.xml
           readme-section: feed
           empty-commits: false
+          branch: main
