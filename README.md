@@ -22,9 +22,9 @@
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
-* [Automatically list your latest posts on your GitHub README](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;blog&#x2F;automatically-update-github-readme)
-* [Introduction to Monorepos with Yarn Workspaces](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;blog&#x2F;yarn-workspaces)
-* [How does the React &quot;key&quot; prop work?](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;blog&#x2F;how-react-keys-work)
-* [Epic React: Advanced React Hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;blog&#x2F;epic_react_react_advanced_hooks)
-* [Epic React: React Hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;blog&#x2F;epic_react_react_hooks)
+* [Automatically list your latest posts on your GitHub README](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;automatically-update-github-readme)
+* [Introduction to Monorepos with Yarn Workspaces](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;yarn-workspaces)
+* [How does the React &quot;key&quot; prop work?](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;how-react-keys-work)
+* [Epic React: Advanced React Hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;epic_react_react_advanced_hooks)
+* [Epic React: React Hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;epic_react_react_hooks)
 <!--END_SECTION:feed-->
