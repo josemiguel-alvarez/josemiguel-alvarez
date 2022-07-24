@@ -22,9 +22,9 @@
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Check if an element is visible with React hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;check-element-is-visible-react-hooks)
 * [Get Started Building CLI Tools with Node.js](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;build-cli-tool-with-node)
 * [Automatically list your latest posts on your GitHub README](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;automatically-update-github-readme)
 * [Introduction to Monorepos with Yarn Workspaces](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;yarn-workspaces)
 * [How does the React &quot;key&quot; prop work?](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;how-react-keys-work)
-* [Epic React: Advanced React Hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;epic_react_react_advanced_hooks)
 <!--END_SECTION:feed-->
