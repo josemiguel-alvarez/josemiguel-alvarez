@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🔨 Currently working on: Building my developer portfolio.
+- 🔨 Currently working on: Building a blog template with [Remix](https://remix.run).
 - 🍀 Currently learning: Refactoring and Design patterns.
 - 💭 Want to learn next: Deepen knowledge about the latest frontend build tools.
 - 📫 How to reach me: jm.alvarez.vano@gmail.com
