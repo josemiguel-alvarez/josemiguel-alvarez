@@ -22,9 +22,9 @@
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Interface Segregation Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;interface-segregation-principle)
 * [Liskov Substitution Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;liskov-substitution-principle)
 * [Open&#x2F;Closed Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;open-closed-principle)
 * [Single Responsibility Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;single-responsibility-principle-typescript)
 * [Dialogs in 2022](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;dialogs-in-2022)
-* [Check if an element is visible with React hooks](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;check-element-is-visible-react-hooks)
 <!--END_SECTION:feed-->
