@@ -22,9 +22,9 @@
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Testing implementation details](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;testing-implementation-details)
 * [Using the new :has pseudo-class as a CSS parent selector](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;using-has-pseudo-class-as-parent-selector)
 * [Dependency Inversion Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;dependency-inversion-principle-typescript)
 * [Interface Segregation Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;interface-segregation-principle)
 * [Liskov Substitution Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;liskov-substitution-principle)
-* [Open&#x2F;Closed Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;open-closed-principle)
 <!--END_SECTION:feed-->
