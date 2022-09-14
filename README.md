@@ -1,6 +1,11 @@
 [![Banner](https://user-images.githubusercontent.com/89982193/189514999-e650bed8-2f08-40bb-8380-72bda9b602c3.png)](https://www.jmalvarez.dev)
 
+![Profile views](https://gpvc.arturio.dev/josemiguel-alvarez)
+![Twitter Follow](https://img.shields.io/twitter/follow/jmalvarezdev?style=social)
+
 👋 My name is José Miguel. I'm a Software Engineer at Shopify. I'm currently working on [Inbox](https://www.shopify.com/inbox), the most popular messaging app for Shopify stores. Previously I've worked in the Swiss & Spanish fintech industry. I'm confident across the stack with a specialization in the frontend.
+
+I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/) and [dev.to](https://dev.to/jmalvarez).
 
 ## About me
 
@@ -16,15 +21,6 @@
 - React Native
 - Typescript
 - Jest
-- Ruby
-- Rails
+- Remix
 
-## 📝 Latest blog posts
-
-<!--START_SECTION:feed-->
-* [CDN Caching, Static Site Generation and Server Side Rendering](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;cdn-and-server-side-rendering)
-* [Testing implementation details](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;testing-implementation-details)
-* [Using the new :has pseudo-class as a CSS parent selector](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;using-has-pseudo-class-as-parent-selector)
-* [Dependency Inversion Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;dependency-inversion-principle-typescript)
-* [Interface Segregation Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;interface-segregation-principle)
-<!--END_SECTION:feed-->
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguel-alvarez)](https://github.com/josemiguel-alvarez/github-readme-stats)
