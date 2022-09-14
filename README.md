@@ -1,7 +1,7 @@
 [![Banner](https://user-images.githubusercontent.com/89982193/189514999-e650bed8-2f08-40bb-8380-72bda9b602c3.png)](https://www.jmalvarez.dev)
 
 ![Profile views](https://gpvc.arturio.dev/josemiguel-alvarez)
-![Twitter Follow](https://img.shields.io/twitter/follow/jmalvarezdev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jmalvarezdev?style=social)](https://twitter.com/jmalvarezdev)
 
 👋 My name is José Miguel. I'm a Software Engineer at Shopify. I'm currently working on [Inbox](https://www.shopify.com/inbox), the most popular messaging app for Shopify stores. Previously I've worked in the Swiss & Spanish fintech industry. I'm confident across the stack with a specialization in the frontend.
 
