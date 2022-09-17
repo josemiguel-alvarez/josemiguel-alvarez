@@ -26,11 +26,11 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [How to create your own blog in Remix in a few minutes](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;simple-remix-blog-template)
+* [box-sizing - How does it work?](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;box-sizing-how-does-it-work)
 * [CDN Caching, Static Site Generation and Server Side Rendering](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;cdn-and-server-side-rendering)
 * [Testing implementation details](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;testing-implementation-details)
 * [Using the new :has pseudo-class as a CSS parent selector](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;using-has-pseudo-class-as-parent-selector)
-* [Dependency Inversion Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;dependency-inversion-principle-typescript)
-* [Interface Segregation Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;interface-segregation-principle)
 <!--END_SECTION:feed-->
 
 ---
