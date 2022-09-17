@@ -23,4 +23,17 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 - Jest
 - Remix
 
+## 📝 Latest blog posts
+
+<!--START_SECTION:feed-->
+* [CDN Caching, Static Site Generation and Server Side Rendering](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;cdn-and-server-side-rendering)
+* [Testing implementation details](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;testing-implementation-details)
+* [Using the new :has pseudo-class as a CSS parent selector](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;using-has-pseudo-class-as-parent-selector)
+* [Dependency Inversion Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;dependency-inversion-principle-typescript)
+* [Interface Segregation Principle in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;interface-segregation-principle)
+<!--END_SECTION:feed-->
+
+---
+
 [![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguel-alvarez)](https://github.com/josemiguel-alvarez/github-readme-stats)
+
