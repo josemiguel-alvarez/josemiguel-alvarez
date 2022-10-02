@@ -26,11 +26,11 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Abstract Factory pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;abstract-factory-typescript)
 * [#VLCTesting 22 Conference](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;vlc-testing-22)
 * [How to create your own blog in Remix in a few minutes](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;simple-remix-blog-template)
 * [box-sizing - How does it work?](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;box-sizing-how-does-it-work)
 * [CDN Caching, Static Site Generation and Server Side Rendering](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;cdn-and-server-side-rendering)
-* [Testing implementation details](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;testing-implementation-details)
 <!--END_SECTION:feed-->
 
 ---
