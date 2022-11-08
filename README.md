@@ -26,11 +26,11 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Factory Method pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;factory-method-typescript)
 * [How to cherry-pick a commit from another repository](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;git-cherry-pick-from-another-repository)
 * [Builder pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;builder-pattern-typescript)
 * [Abstract Factory pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;abstract-factory-typescript)
 * [#VLCTesting 22 Conference](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;vlc-testing-22)
-* [How to create your own blog in Remix in a few minutes](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;simple-remix-blog-template)
 <!--END_SECTION:feed-->
 
 ---
