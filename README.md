@@ -26,11 +26,11 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Adapter pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;adapter-pattern-typescript)
 * [Singleton pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;singleton-typescript)
 * [Factory Method pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;factory-method-typescript)
 * [How to cherry-pick a commit from another repository](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;git-cherry-pick-from-another-repository)
 * [Builder pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;builder-pattern-typescript)
-* [Abstract Factory pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;abstract-factory-typescript)
 <!--END_SECTION:feed-->
 
 ---
