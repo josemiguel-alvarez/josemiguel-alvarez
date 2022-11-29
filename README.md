@@ -35,5 +35,5 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 
 ---
 
-[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguel-alvarez)](https://github.com/josemiguel-alvarez/github-readme-stats)
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemiguel-alvarez&count_private=true&show_icons=true)](https://github.com/josemiguel-alvarez)
 
