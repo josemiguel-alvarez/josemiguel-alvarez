@@ -26,11 +26,11 @@ I regularly publish tech articles on [jmalvarez.dev](https://www.jmalvarez.dev/)
 ## 📝 Latest blog posts
 
 <!--START_SECTION:feed-->
+* [Decorator pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;decorator-pattern-typescript)
 * [Equality of values in JavaScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;equality-of-values-javascript)
 * [Composite pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;composite-pattern-typescript)
 * [HTML Link media attribute](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;html-link-media-attribute)
 * [Bridge pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;bridge-pattern-typescript)
-* [Adapter pattern in TypeScript](https:&#x2F;&#x2F;www.jmalvarez.dev&#x2F;posts&#x2F;adapter-pattern-typescript)
 <!--END_SECTION:feed-->
 
 ---
